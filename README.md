@@ -37,6 +37,7 @@ The dataset includes:
   - Walk-Forward Validation to simulate real-world forecasting scenarios and iteratively update models  
 - **Visualization:**  
   - Boxplots, pairplots, and other exploratory data analysis techniques to study feature interactions and distributions
+  - Cross Validation across stratified folds
 
 ## Observations and Insights
 
